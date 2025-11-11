@@ -1,1 +1,1 @@
-# Traduccion-Dirigida-por-Sintaxis
+# Traduccion Dirigida por Sintaxis
